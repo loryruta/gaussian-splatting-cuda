@@ -22,4 +22,4 @@ test.py
 testdata
 
 *.pt
-!weights/*.pt
+!weights/lpips_vgg.pt
